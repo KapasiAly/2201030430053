@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-league-spartan: "League Spartan";
+  --font-lateef: Lateef;
+
+  /* font sizes */
+  --font-size-6xs: 7px;
+  --font-size-4xs-8: 8.8px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-blue: #2722ff;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-12xl: 31px;
+  --gap-4xs-8: 8.8px;
+  --gap-4xl: 23px;
+  --gap-base: 16px;
+
+  /* Paddings */
+  --padding-10xs: 3px;
+  --padding-12xs: 1px;
+  --padding-11xs: 2px;
+  --padding-8xs-4: 4.4px;
+  --padding-3xs: 10px;
+  --padding-2xs-1: 10.1px;
+  --padding-7xs: 6px;
+}

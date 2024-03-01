@@ -1,0 +1,543 @@
+.login-to-your {
+  margin: 0;
+  height: 45px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+}
+.login-to-your-account-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 608px;
+}
+.enter-your-credentials {
+  width: 348.8px;
+  position: relative;
+  font-size: 15px;
+  font-weight: 500;
+  display: none;
+  height: 24.6px;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.line-separator {
+  width: 376.9px;
+  height: 1.9px;
+  position: absolute;
+  margin: 0 !important;
+  right: 130.2px;
+  bottom: 270.7px;
+  border-top: 1.9px solid #f5f5f5;
+  box-sizing: border-box;
+}
+.why-science-grades-1 {
+  align-self: stretch;
+  height: 496.2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.why-science-grades-subframe {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+  min-width: 484px;
+  max-width: 100%;
+}
+.username {
+  position: relative;
+  font-size: var(--font-size-sm-1);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+}
+.name-confirmation-frame,
+.username-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.name-confirmation-frame {
+  width: 80px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 14px;
+  justify-content: center;
+  padding: 0 0 0.375px;
+  box-sizing: border-box;
+  font-family: var(--font-poppins);
+  font-weight: 500;
+  font-size: var(--font-size-3xs-4);
+  color: var(--muted);
+}
+.login-to-account-text,
+.name-confirmation-frame-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.name-confirmation-frame-wrapper {
+  height: 30px;
+  border-radius: 9.38px;
+  border: 0.9px solid var(--muted);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 9.375px 0 9.375px 9.375px;
+}
+.login-to-account-text {
+  flex: 1;
+  flex-direction: column;
+}
+.name {
+  position: relative;
+  font-size: var(--font-size-sm-1);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+}
+.google-login-frame {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.google-login-frame,
+.name-fields,
+.or-label {
+  display: flex;
+  flex-direction: row;
+}
+.name-fields {
+  width: 29px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 14px;
+  align-items: flex-start;
+  justify-content: center;
+  font-family: var(--font-poppins);
+  font-weight: 500;
+  font-size: var(--font-size-3xs-4);
+  color: var(--muted);
+}
+.or-label {
+  align-self: stretch;
+  height: 30px;
+  border-radius: 9.38px;
+  border: 0.9px solid var(--muted);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 9.375px 0 9.375px 9.375px;
+}
+.google-login-frame-parent {
+  flex-direction: column;
+}
+.google-login-frame-parent,
+.signup-name-input,
+.signup-name-input-inner {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.signup-name-input-inner {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.signup-name-input {
+  flex-direction: column;
+  gap: 36px 0;
+}
+.why-science-grades-rectangle {
+  height: 9.2px;
+  width: 8.4px;
+  position: relative;
+  border-radius: 1.88px;
+  border: 0.9px solid var(--color-black);
+  box-sizing: border-box;
+}
+.remember-me {
+  position: relative;
+  font-size: var(--font-size-4xs-4);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+}
+.enter-your-name-frame,
+.second-name-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 6px;
+}
+.enter-your-name-frame {
+  align-self: stretch;
+  height: 183px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 26px 0;
+  max-width: 100%;
+}
+.name1 {
+  align-self: stretch;
+  width: 41px;
+  position: relative;
+  font-size: var(--font-size-sm-1);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: none;
+}
+.name-wrapper {
+  height: 19.7px;
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.name2 {
+  align-self: stretch;
+  width: 29px;
+  position: relative;
+  font-size: var(--font-size-3xs-4);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--muted);
+  text-align: left;
+  display: none;
+}
+.name-container {
+  height: 14px;
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.login1 {
+  position: relative;
+  font-size: 12.2px;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.frame-with-login-text,
+.sign-up-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-with-login-text {
+  flex: 1;
+  border-radius: 9.38px;
+  background-color: #121945;
+  border: 0.9px solid #3a5b22;
+  overflow: hidden;
+  padding: var(--padding-8xs) 21px 7px var(--padding-xl);
+  gap: 0 9.38px;
+}
+.sign-up-frame {
+  cursor: pointer;
+  border: 0;
+  padding: 0 0 var(--padding-11xs);
+  background-color: var(--edf2f7);
+  align-self: stretch;
+  height: 33px;
+}
+.or {
+  position: relative;
+  font-size: var(--font-size-4xs-4);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  white-space: nowrap;
+}
+.google-icon-frame,
+.login-with-google-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.login-with-google-text {
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: center;
+  padding: 0 var(--padding-8xs) 0 var(--padding-9xs);
+  z-index: 1;
+}
+.google-icon-frame {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl);
+}
+.icons8-google-1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.login-with-google {
+  position: relative;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+}
+.create-account-button {
+  cursor: pointer;
+  border: 1px solid var(--muted);
+  padding: var(--padding-9xs) 18px var(--padding-9xs) var(--padding-xl);
+  background-color: transparent;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 10px;
+  white-space: nowrap;
+}
+.create-account-button:hover,
+.rectangle-shape:hover {
+  background-color: var(--color-silver-200);
+  border: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+}
+.icons8-apple-logo-1 {
+  height: 22.5px;
+  width: 22.5px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.login-with-apple {
+  position: relative;
+  font-size: 11.3px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+}
+.dont-have-account-text,
+.rectangle-shape {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.rectangle-shape {
+  cursor: pointer;
+  border: 0.9px solid var(--muted);
+  padding: var(--padding-10xs) 24px var(--padding-8xs) 27px;
+  background-color: transparent;
+  border-radius: 9.38px;
+  overflow: hidden;
+  justify-content: flex-start;
+  gap: 0 10px;
+}
+.rectangle-shape:hover {
+  border: 0.9px solid var(--color-silver-100);
+}
+.dont-have-account-text {
+  justify-content: center;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 18px;
+}
+.dont-have-an {
+  color: var(--color-black);
+  white-space: pre-wrap;
+}
+.create {
+  color: #1400ff;
+}
+.dont-have-an-container {
+  height: 20px;
+  position: relative;
+  font-size: var(--font-size-sm-1);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  text-align: left;
+  display: inline-block;
+}
+.or-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 38px;
+}
+.login-with-apple-text,
+.username-input-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 22px 0;
+}
+.username-input-frame {
+  margin: 0;
+  width: 382px;
+  align-items: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: 57px 0;
+  min-width: 382px;
+  max-width: 100%;
+}
+.why-science-grades-subframe-parent {
+  width: 1197px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0 71px;
+  max-width: 104%;
+  flex-shrink: 0;
+}
+.inner-frame {
+  width: 1172px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sign-up {
+  margin-bottom: -53px;
+  width: 1280px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 135px 0 84px;
+  position: relative;
+  gap: 52px 0;
+  min-height: 869px;
+  max-width: 107%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 30px;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.login,
+.login-container,
+.sign-up {
+  display: flex;
+  box-sizing: border-box;
+}
+.login-container {
+  height: 816px;
+  width: 1220px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  max-width: 100%;
+}
+.login {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 53px 0 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .why-science-grades-subframe-parent {
+    gap: 0 71px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .login-to-your {
+    font-size: 24px;
+  }
+  .login-to-your-account-wrapper {
+    padding-left: 304px;
+    box-sizing: border-box;
+  }
+  .username-input-frame {
+    flex: 1;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .why-science-grades-subframe-parent {
+    flex-wrap: wrap;
+  }
+  .sign-up {
+    padding-top: 88px;
+    padding-bottom: 55px;
+    box-sizing: border-box;
+  }
+  .login-container {
+    height: auto;
+  }
+}
+@media screen and (max-width: 750px) {
+  .login-to-your-account-wrapper {
+    padding-left: 152px;
+    box-sizing: border-box;
+  }
+  .why-science-grades-subframe {
+    min-width: 100%;
+  }
+  .why-science-grades-subframe-parent {
+    gap: 0 71px;
+  }
+  .sign-up {
+    gap: 52px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .login-to-your {
+    font-size: 18px;
+  }
+  .signup-name-input {
+    gap: 36px 0;
+  }
+  .dont-have-account-text {
+    flex-wrap: wrap;
+  }
+  .username-input-frame {
+    gap: 57px 0;
+    min-width: 100%;
+  }
+  .sign-up {
+    padding-top: 57px;

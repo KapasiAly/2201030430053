@@ -1,0 +1,759 @@
+.experiments,
+.gallery {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.22px;
+  line-height: 40px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.frame-experiments {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+  margin-top: -6px;
+  font-size: 25px;
+  font-family: var(--font-league-spartan);
+}
+.child-f-r-a-m-e,
+.gallery-component {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gallery-component {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.child-f-r-a-m-e {
+  width: 350px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-7xs);
+  box-sizing: border-box;
+  font-size: 40px;
+  font-family: var(--font-lateef);
+}
+.chemistry-lab-law-of-mass-co-icon {
+  width: 182.5px;
+  height: 136.9px;
+  position: relative;
+  object-fit: cover;
+}
+.chemistry-laboratory,
+.law-of-mass {
+  margin: 0;
+}
+.law-of-mass-container {
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 40px;
+}
+.rectangle-optic-lab {
+  flex: 0.9495;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  gap: 16px 0;
+  min-width: 148px;
+}
+.chemistry-lab-buffering-acti-icon {
+  width: 182.5px;
+  height: 136.9px;
+  position: relative;
+  object-fit: cover;
+}
+.buffering-activity1,
+.chemistry-laboratory1 {
+  margin: 0;
+}
+.buffering-activity-chemistry-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+}
+.cellular-respiration-biology,
+.rate-of-reaction-mass-change {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cellular-respiration-biology {
+  align-self: stretch;
+  height: 58px;
+  flex-direction: row;
+  padding: 0 0 0 9px;
+  box-sizing: border-box;
+}
+.rate-of-reaction-mass-change {
+  flex: 1;
+  flex-direction: column;
+  gap: 9px 0;
+  min-width: 145px;
+}
+.chemistry-lab-law-of-definit-icon {
+  width: 182.5px;
+  height: 136.9px;
+  position: relative;
+  object-fit: cover;
+}
+.blank-line,
+.blank-line1,
+.chemistry-laboratory2,
+.law-of-definite {
+  margin: 0;
+}
+.law-of-definite-container {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 28px;
+  z-index: 1;
+}
+.newtons-lawand-friction {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-7xs);
+}
+.chemistry-lab-buffering,
+.newtons-lawand-friction,
+.rotationof-rigid-bodies {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rotationof-rigid-bodies {
+  flex: 1;
+  flex-direction: column;
+  gap: 22px 0;
+  min-width: 142px;
+}
+.chemistry-lab-buffering {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 7px;
+}
+.optic-lab-lenses-and-images-icon {
+  align-self: stretch;
+  height: 136.9px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.lenses-and-image,
+.optics-and-waves {
+  margin: 0;
+}
+.lenses-and-image-container1 {
+  width: 100%;
+}
+.lenses-and-image-container {
+  width: 180.5px;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 17.5px;
+  display: flex;
+  align-items: center;
+}
+.mechanic-lab {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: 17px 0;
+  min-width: 139px;
+}
+.mechanic-lab-angular-momentu-icon {
+  align-self: stretch;
+  height: 136.9px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.angular-momentum,
+.mechanics-laboratory {
+  margin: 0;
+}
+.angular-momentum-mechanics-container1 {
+  width: 100%;
+}
+.angular-momentum-mechanics-container {
+  width: 179px;
+  height: 61px;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 17.5px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mechanic-lab1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  gap: 19px 0;
+  min-width: 139px;
+}
+.mechanic-lab-friction-forces-icon {
+  align-self: stretch;
+  height: 136.9px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.friction-forces,
+.mechanics-laboratory1 {
+  margin: 0;
+}
+.friction-forces-mechanics-container1 {
+  width: 100%;
+}
+.friction-forces-mechanics-container {
+  width: 174px;
+  height: 47px;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 17.5px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mechanic-lab2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: 21px 0;
+  min-width: 138px;
+}
+.buffering-activity,
+.mechanic-lab-parent,
+.optics-lab {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.mechanic-lab-parent {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0 17px;
+}
+.buffering-activity,
+.optics-lab {
+  align-self: stretch;
+}
+.optics-lab {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-7xs) 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.buffering-activity {
+  flex-direction: column;
+  align-items: center;
+  gap: 16px 0;
+}
+.biology-lab-bacterial-transf-icon {
+  width: 182.5px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+}
+.animal-behavior,
+.biology-laboratory {
+  margin: 0;
+}
+.animal-behavior-biology-container {
+  align-self: stretch;
+  height: 52px;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 17.5px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.bacterial-transform {
+  height: 202px;
+  width: 188px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 13px 0;
+}
+.mechanic-lab-rotation-of-rig-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.medical-biochemistry-laborator,
+.protein-isolation1 {
+  margin: 0;
+}
+.protein-isolation-medical-container1 {
+  width: 100%;
+}
+.protein-isolation-medical-container {
+  width: 175px;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 17.5px;
+  display: flex;
+  align-items: center;
+}
+.rotation-rigid-bodies {
+  height: 195px;
+  width: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: 10px 0;
+}
+.chemistry-lab-buffer-design-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.collisions-in-one,
+.mechanics-laboratory2 {
+  margin: 0;
+}
+.collisions-in-one-container1 {
+  width: 100%;
+}
+.collisions-in-one-container {
+  width: 172px;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 17.5px;
+  display: flex;
+  align-items: center;
+}
+.rotation-rigid-bodies1 {
+  height: 192px;
+  width: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: 15px 0;
+}
+.biology-lab-meiosis-and-cros-icon {
+  width: 182.5px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+}
+.biology-laboratory1,
+.cellular-respiration {
+  margin: 0;
+}
+.cellular-respiration-biology-container {
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 17.5px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.biology-lab {
+  height: 199px;
+  width: 187px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 14px 0;
+}
+.mechanic-lab-hook-s-law-and-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chemistry-laboratory3,
+.rate-of-reaction {
+  margin: 0;
+}
+.rate-of-reaction-container1 {
+  width: 100%;
+}
+.rate-of-reaction-container {
+  width: 172.5px;
+  height: 38.5px;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 17.5px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rotation-rigid-bodies2 {
+  height: 198px;
+  width: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: 23px 0;
+}
+.mechanic-lab-newtons-law-and-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chemistry-laboratory4,
+.rate-laws {
+  margin: 0;
+}
+.rate-laws-chemistry-container1 {
+  width: 100%;
+}
+.rate-laws-chemistry-container {
+  width: 177px;
+  position: relative;
+  letter-spacing: 0.22px;
+  line-height: 17.5px;
+  display: flex;
+  align-items: center;
+}
+.rotation-rigid-bodies3 {
+  height: 192px;
+  width: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: 20px 0;
+}
+.main-f-r-a-m-e,
+.protein-isolation {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.protein-isolation {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 14px 15.5px;
+  min-height: 413px;
+}
+.main-f-r-a-m-e {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: 23px 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-league-spartan);
+}
+.frame-content,
+.virtual-labs-02-3-icon {
+  align-self: stretch;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 18px 0 21px;
+  box-sizing: border-box;
+}
+.virtual-labs-02-3-icon {
+  height: 38px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.text-frame {
+  cursor: pointer;
+  border: 0;
+  padding: 4.40625px var(--padding-10xs) 4.40625px 0;
+  background-color: transparent;
+  width: 61px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.logo-facebook-icon,
+.logo-instagram-icon,
+.logo-linkedin-icon,
+.logo-twitter-icon {
+  height: 10.6px;
+  width: 10.6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 11px;
+}
+.logo-facebook-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 3.52px;
+}
+.our-company {
+  position: relative;
+  font-weight: 500;
+}
+.about,
+.contact,
+.home,
+.news,
+.services {
+  position: relative;
+  font-weight: 300;
+}
+.text-frame1 {
+  font-size: var(--font-size-6xs);
+}
+.our-company-parent,
+.text-frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8.81px 0;
+}
+.terms-conditions {
+  position: relative;
+  font-weight: 500;
+}
+.software-license-agreement,
+.vrlab-academy {
+  margin: 0;
+}
+.audience-analytics,
+.software-license-agreement-container {
+  position: relative;
+  font-weight: 300;
+}
+.audience-analytics {
+  width: 63px;
+  display: none;
+}
+.copywriting {
+  width: 40px;
+  display: none;
+}
+.copywriting,
+.imprintimpressum,
+.privacy-policy {
+  position: relative;
+  font-weight: 300;
+}
+.rectangle {
+  font-size: var(--font-size-6xs);
+}
+.rectangle,
+.terms-conditions-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8.81px 0;
+}
+.email,
+.subscribe {
+  position: relative;
+  font-weight: 500;
+}
+.email {
+  font-weight: 100;
+}
+.email-wrapper {
+  align-self: stretch;
+  border-radius: 4.41px;
+  background-color: #e2e2e2;
+  box-shadow: 2.6px 2.6px 5.29px rgba(41, 41, 41, 0.09);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.40625px 10.134374618530273px;
+  font-size: var(--font-size-6xs);
+  color: #4f4f4f;
+}
+.subscribe1 {
+  position: relative;
+  font-size: 7.9px;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+}
+.subscribe-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 4.40625px var(--padding-3xs) 4.40625px 10.134374618530273px;
+  background-color: var(--color-blue);
+  border-radius: 4.41px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.subscribe-wrapper:hover {
+  background-color: #4d47ff;
+}
+.text-frame2 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 4.40625px 39px 4.40625px 4.40625px;
+}
+.logo-frame,
+.rectangle1,
+.text-frame2 {
+  display: flex;
+  align-items: flex-start;
+}
+.rectangle1 {
+  height: 103.1px;
+  width: 101.3px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 14.1px 0;
+}
+.logo-frame {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 35.25px;
+  gap: 20px;
+}
+.all-copyrights-are {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: inline-block;
+  max-width: 100%;
+}
+.content,
+.copyrights-mamdoo,
+.footer {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.copyrights-mamdoo {
+  align-self: stretch;
+  background-color: var(--color-blue);
+  flex-direction: row;
+  align-items: center;
+  padding: 3.5249998569488525px 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: 6.2px;
+  color: var(--color-white);
+}
+.content,
+.footer {
+  background-color: var(--color-white);
+  flex-direction: column;
+}
+.footer {
+  align-self: stretch;
+  box-shadow: 57.3px 61.7px 110.16px rgba(0, 0, 0, 0.18);
+  align-items: flex-start;
+  padding: 21.149999618530273px 0 0;
+  gap: 29.96px 0;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-4xs-8);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.content {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  align-items: center;
+  padding: 30px var(--padding-10xs) var(--padding-12xs) var(--padding-11xs);
+  gap: 31px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 550px) {
+  .chemistry-lab-buffering,
+  .logo-frame {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .experiments {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .rectangle-optic-lab {
+    flex: 1;
+  }
+}
